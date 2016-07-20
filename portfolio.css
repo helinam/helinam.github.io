@@ -73,7 +73,7 @@
 #header {
 	float: left;
 	clear: right;
-	height: 20%;
+	height: 10%;
 	width: 100%;
 	background-color: gray;
 	border: 10px solid gray;
@@ -179,8 +179,10 @@ div.header h1{
 }
 
 div.bubble h2{
-	font: 4.5em normal Times, sans-serif;
+	font: 3em normal Times, sans-serif;
+	font-weight: 300;
 	color: black;
+	margin-top: 1em;
 }
 
 div.bubble p {
