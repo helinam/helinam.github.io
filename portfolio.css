@@ -22,13 +22,14 @@
 	float: left;
 	margin: 1em 0em 1em 2em;
 	padding: 0.2em;
+	opacity: 0.8;
 }
 
 .bubble:hover {
 	border-color: pink;
 	height: 260%;
 	width: 40%;
-	opacity: 0.5;
+	opacity: 1;
 }
 
 .button {
@@ -180,9 +181,9 @@ div.header h1{
 
 div.bubble h2{
 	font: 3em normal Times, sans-serif;
-	font-weight: 300;
+	font-weight: 400;
 	color: black;
-	margin-top: 1em;
+	margin: 0.5em 0em 0em 0.2em;
 }
 
 div.bubble p {
