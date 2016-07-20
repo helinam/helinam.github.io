@@ -74,9 +74,9 @@
 	clear: right;
 	height: 20%;
 	width: 100%;
-	background-color: pink;
-	border: 10px solid grey;
-	margin-top: -0.5em;
+	background-color: gray;
+	border: 10px solid gray;
+	margin: -0.5em 0em 0em -1em;
 }
 
 #content {
