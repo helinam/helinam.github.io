@@ -10,7 +10,7 @@
 	clear: right;
 	margin: auto;
 	height: 40%;
-	width: 90%;
+	width: 95%;
 }
 
 .bubble {
@@ -26,8 +26,8 @@
 
 .bubble:hover {
 	border-color: pink;
-	height: 200%;
-	width: 35%;
+	height: 260%;
+	width: 40%;
 }
 
 .button {
