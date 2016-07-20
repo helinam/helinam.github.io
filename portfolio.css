@@ -1,0 +1,179 @@
+.nav_bar {
+	height: 30%;
+	width: 15%;
+	float: left;
+	clear: none;
+}
+
+.row {
+	float: left;
+	clear: right;
+	margin: auto;
+	height: 40%;
+	width: 90%;
+}
+
+.bubble {
+	border: 1.5em solid pink;
+	border-radius: 15%;
+	background-color: white;
+	height: 200%;
+	width: 30%;
+	float: left;
+	margin: 1em 0em 1em 2em;
+	padding: 0.5em;
+}
+
+.bubble:hover {
+	border-color: pink;
+	height: 200%;
+	width: 35%;
+}
+
+.button {
+	height: 20%;
+	width: 50%;
+	background-color: lightgray;
+	clear: right;
+}
+
+.button:hover {
+	height: 25%;
+	width: 62.5%;
+}
+
+.button:active {
+	height: 15%;
+	width: 37.5%;
+	background-color: darkgray;
+}
+
+.button:visited {
+	height: 18%;
+	width: 45%;
+	background-color: gray;
+}
+
+.circle {
+	border: 15px dotted pink;
+	height: 100%;
+	width: 25%;
+	margin: 3em;
+	float: left;
+	background-color: white;
+	border-radius: 100%;
+}
+
+#change {
+	height: 30%;
+	width: 30%;
+}
+
+#header {
+	float: left;
+	clear: right;
+	height: 20%;
+	width: 100%;
+	background-color: pink;
+	border: 10px solid grey;
+	margin-top: -0.5em;
+}
+
+#content {
+	float: left;
+	height: 30%;
+	width: 70%;
+	clear: right;
+	margin-left: 4.5em;
+}
+
+#footer {
+	height: 30%;
+	width: 100%;
+	clear: both;
+}
+
+#orange {
+	border-color: orange;
+	background-image: url("orange.jpg");
+}
+
+#green {
+	border-color: green;
+	background-image: url("green.jpg");
+}
+
+#blue {
+	border-color: blue;
+	background-image: url("blue.jpg");
+}
+
+#yellow {
+	border-color: yellow;
+	background-image: url("yellow.jpg");
+}
+
+body {
+	background-image: url("homepage.png");
+}
+
+div {
+	margin: 1em;
+	height: auto;
+	width: auto;
+}
+
+img {
+	height: 20%;
+	width: 20%;
+	margin: 3em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: Impact, sans-serif;
+	text-align: center;
+	font-size: 2.3em;
+}
+
+p {
+	margin: 10px;
+	font-family: Arial, sans-serif;
+	text-align: center;
+	background-color: transparent;
+	padding: 10px;
+	float: left;
+}
+
+div.nav_bar ol {
+	list-style-type: none;
+}
+
+div.nav_bar li {
+	width: 100%;
+	margin: 2em 0em 2em -1.5em;
+	padding: 1em;
+	text-align: center;
+	background-color: gray;
+	border-radius: 5%;
+}
+
+div.nav_bar a {
+	font: 1.5em italic Arial, sans-serif;
+	color: white;
+	font-weight: 100;
+	text-decoration: none;
+}
+
+div.nav_bar a {
+	font: 1.5em italic Arial, sans-serif;
+	color: white;
+	font-weight: 100;
+	text-decoration: none;
+}
+
+div.nav_bar a:hover {
+	font: 1.5em italic Arial, sans-serif;
+	color: white;
+	font-weight: 100;
+	text-decoration: none;
+}
