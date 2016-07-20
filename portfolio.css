@@ -164,16 +164,13 @@ div.nav_bar a {
 	text-decoration: none;
 }
 
-div.nav_bar a {
+div.nav_bar a:hover {
 	font: 1.5em italic Arial, sans-serif;
 	color: white;
 	font-weight: 100;
 	text-decoration: none;
 }
 
-div.nav_bar a:hover {
-	font: 1.5em italic Arial, sans-serif;
-	color: white;
-	font-weight: 100;
-	text-decoration: none;
+div.bubble p {
+	font: 1.5em normal Georgia, sans-serif;
 }
