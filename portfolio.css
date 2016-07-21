@@ -121,6 +121,10 @@
 	background-image: url("yellow.jpg");
 }
 
+#map {
+	width: 80%;
+}
+
 body {
 	background-color: #F5F5F5;
 }
