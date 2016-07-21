@@ -68,7 +68,8 @@
 }
 
 .container {
-	width: 900px;
+	width: 75%;
+	height: 30%;
 	float: left;
 }
 
