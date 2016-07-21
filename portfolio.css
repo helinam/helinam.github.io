@@ -67,6 +67,11 @@
 	border-radius: 100%;
 }
 
+.container {
+	width: 900px;
+	float: left;
+}
+
 #change {
 	height: 30%;
 	width: 30%;
