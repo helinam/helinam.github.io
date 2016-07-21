@@ -14,19 +14,20 @@
 }
 
 .bubble {
-	border: 1.5em solid pink;
-	border-radius: 15%;
+	border-width: 1em;
+	border-style: solid;
+	border-radius: 20%;
 	background-color: white;
 	height: 240%;
 	width: 35%;
 	float: left;
-	margin: 1em 0em 1em 2em;
+	margin: 1em 0em 0.5em 1em;
 	padding: 0.2em;
 	opacity: 0.8;
 }
 
 .bubble:hover {
-	border-color: pink;
+	border-width: 0.5em;
 	height: 260%;
 	width: 40%;
 	opacity: 1;
@@ -34,7 +35,7 @@
 
 .button {
 	height: 20%;
-	width: 50%;
+	width: 40%;
 	background-color: lightgray;
 	clear: right;
 }
